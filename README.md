@@ -22,7 +22,7 @@ El proyecto será desarrollado colaborativamente utilizando Git y GitHub.
 
 
 
-\- Developer A
+\- Developer A: Camilo Bothia
 
-\- Developer B
+\- Developer B: Daniel Vergara
 
